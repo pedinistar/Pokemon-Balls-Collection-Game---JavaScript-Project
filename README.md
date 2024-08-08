@@ -11,6 +11,10 @@ This game features a dynamic interface where players control a character (the "p
 - **Player Control:** Move the player character to catch the falling balls. 🎯
 - **Responsive Design:** The game is designed to work on various screen sizes. 📱💻
 
+## Screenshot
+
+<img src="assets/pokemon-game.png">
+
 ## Installation
 
 1. **Clone the Repository:**
